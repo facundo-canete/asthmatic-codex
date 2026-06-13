@@ -3,7 +3,22 @@
 ## Determinismo
 
 ### Definición:
-Aceituna
+Sostiene que todo acontecimiento físico, incluso el pensamiento y las acciones humanas, están causalmente determinados por la irrompible cadena causa-consecuencia y, por tanto, el estado actual «determina» en algún sentido el futuro.
+
+### Determinismo lógico:
+Sostiene que el valor de la verdad de cualquier proposición es intemporal; e.g., la frase «Mañana lloverá» es verdadera o falsa, y si es verdadera, entonces mañana lloverá por necesidad lógica.
+
+### Determinismo epistémico:
+Sostiene que si se conoce cualquier hecho futuro de antemano, entonces debe ocurrir el hecho inevitablemente.
+
+### Determinismo causal:
+Sostiene que todos los eventos son el resultado de leyes naturales y de condiciones precedentes y que, por consiguiente, son inevitables.
+
+### Determinismo fuerte:
+Sostiene que no existen sucesos genuinamente aleatorios o azarosos y que, en general, el futuro es potencialmente predecible a partir del presente. El pasado también podría ser «predecible» si conocemos perfectamente una situación puntual de la cadena de causalidad.
+
+### Determinismo débil:
+Sostiene que es la probabilidad lo que está determinado por los hechos presentes, o que existe una fuerte correlación entre el estado presente y los estados futuros, aún admitiendo la influencia de sucesos esencialmente aleatorios e impredecibles.
 
 
 ## Epistemología
