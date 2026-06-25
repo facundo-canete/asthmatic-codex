@@ -1,13 +1,19 @@
 # Dudas Recurrentes
 
+## Aquello vs aquéllo
+Tradicionalmente, esta palabra llevaba tilde cuando funcionaba como pronombre demostrativo para diferenciarla de los adjetivos demostrativos. Sin tilde, como adjetivo demostrativo, modifica un sustantivo, siendo necesaria la presencia de este; e.g., «Aquélla es enorme». Con tilde, como pronombre demostrativo en cambio, reemplaza al sustantivo quedando tácito; e.g., «Aquélla es enorme».
+
+> ¿Qué dice la *RAE*? Actualmente recomienda no poner la tilde, sin importar si son pronombres o adjetivos considerando que no era una tilde necesaria ya que tienen acento prosódico natural; la *RAE* consideró que el contexto suele bastar para entender el significado. Sin embargo, aunque desaconsejado por la norma moderna, no se considera un error grave, ya que la *RAE* admite que alguien pueda usar la tilde si cree que evitar confusión; cf. [Solo vs sólo](#solo-vs-sólo).
+
+### Palabras con igual distinción
+- Ese (*ése*)
+- Este (*éste*)
+
+
 ## Solo vs sólo
-Histórica y tradicionalmente, «solo» es un adjetivo que significa *sin compañía*; e.g., «Esto solo en casa»; mientras que «sólo» es un adverbio que significa *solamente*; e.g., «Sólo quería ayudarte». <br>
-$\space$Actualmente, la RAE recomienda escribir siempre «solo», sin tilde, justificando que el contexto normalmente alcanza para entender el sentido. Sin embargo, la RAE también dice que la tilde puede usarse si hay ambigüedad real y el autor quiere evitar confusión.
+Histórica y tradicionalmente, «solo» es un adjetivo que significa *sin compañía*; e.g., «Esto solo en casa»; mientras que «sólo» es un adverbio que significa *solamente*; e.g., «Sólo quería ayudarte».
 
-
-## Este vs éste, eso vs éso, aquello vs aquéllo
-Estas palabras tradicionalmente llevaban tilde cuando funcionaban como pronombres demostrativos, para diferenciarlos de los adjetivos demostrativos. Sin tilde, como adjetivos demostrativos, modifican un sustantivo, siendo necesaria la presencia de este; e.g., «Esta guitarra suena bien», «Ese libro es mío», «Aquella casa es enorme». Con tilde, como pronombres demostrativos en cambio, reemplazan al sustantivo quedando tácito; e.g., «Ésta suena bien», «Ése es mío», «Aquélla es enorme». <br>
-$\space$La RAE, por su parte, actualmente recomienda no ponerles tilde, sin importar si son pronombres o adjetivos considerando que no era una tilde necesaria ya que tienen acento prosódico natural. La RAE consideró que el contexto suele bastar para entender el significado. Sin embargo, aunque desaconsejado por la norma moderna, no se considera un error grave, ya que igual que con «sólo», la RAE admite que alguien pueda usar la tilde si cree que evita confusión; cf. Solo vs sólo.
+> ¿Qué dice la *RAE*? Actualmente recomienda escribir siempre «solo», sin tilde, justificando que el contexto normalmente alcanza para entender el sentido. Sin embargo, la *RAE* también dice que la tilde puede usarse si hay ambigüedad real y el autor quiere evitar confusión.
 
 
 ## Por qué vs porque vs porqué vs por que

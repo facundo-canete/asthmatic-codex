@@ -46,7 +46,7 @@ Abreviatura latina bibliográfica que significa «En el mismo lugar» para refer
 Locución latina que significa «Esto es» o «Es decir» y reformula, precisa o redefine algo dicho antes. Se puede pensar como «En otras palabras...»; e.g., «Hipérbaton: alteración del orden sintáctico canónico; *i.e.*, inversión estructural con fines expresivos».
 
 
-## passim
+## Passim
 
 ### Definición:
 Adverbio latino que significa «A lo largo de toda la obra». No apunta a una página concreta, sino a una presencia dispersa o recurrente. Su uso típico es después de la referencia o autor cuando encontramos autores recurrentes, ideas distribuidas, temas repetidos y referencias generales; e.g., «Nietzsche desarrolla esta crítica moral *passim* en sus obras tardías», «La noción de *logos* aparece en Heráclito, *passim*».
@@ -64,7 +64,7 @@ Significa «Por sí mismo» o «En sí mismo». Se utiliza pra indicar que algo 
 Locución latina que significa «Lo cual véase» o «Véase esta entrada» y es una remisión directa a otra entrada para ampliación. A diferencia de *confer* que compara, este deriva o remite. Se puede pensar como «Para más detalle, andá allá»; e.g., «Ataraxia: tranquilidad imperturbable; *q.v.* Estoicismo».
 
 
-## sic
+## Sic
 
 ### Definición:
 Adverbio latino que significa «Así estaba escrito en el original». Sirve para indicar que una palabra, error, rareza o formulación extraña en una cita pertenece a la original, aunque parezca incorrecta. Su uso típico es entre corchetes e inmediatamente después de errores ortográficos, gramática rara, formulaciones absurdas, anacronismos y citas textuales sospechosas; e.g., «El ombre [*sic*] caminaba solo», «Napoleón nació en 1770 [*sic*]».

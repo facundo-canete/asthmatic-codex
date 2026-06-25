@@ -12,21 +12,21 @@
 - [H](#h)
 - [I](#i)
 - [J](#j)
-- [K](#k)
+- [K - vacío](#k)
 - [L](#l)
 - [M](#m)
-- [N](#n)
+- [N - vacío](#n)
 - [O](#o)
 - [P](#p)
-- [Q](#q)
+- [Q - vacío](#q)
 - [R](#r)
 - [S](#s)
 - [T](#t)
 - [U](#u)
 - [V](#v)
-- [W](#w)
-- [X](#x)
-- [Y](#y)
+- [W - vacío](#w)
+- [X - vacío](#x)
+- [Y - vacío](#y)
 - [Z](#z)
 
 # A
@@ -765,7 +765,7 @@ Del latín tardío *liturgĭa*, y este del griego λειτουργία (*leitou
 Del latín *lugŭbris*.
 
 
-## Lumpenproletariado
+## Lumpemproletariado
 
 ### Definición:
 Sector social más bajo del proletariado desprovisto de conciencia de clase.

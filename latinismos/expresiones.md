@@ -84,7 +84,7 @@ Significa «Por el hecho mismo» o «Automáticamente consecuencia de ello». Se
 Significa «Modo de operar» o «Forma de actuar». Se utiliza para describir el método habitual que una persona, grupo u organización emplea para realizar una actividad; e.g., «La policía identificó al sospechoso por su *modus operandi*, que coincidía con otros robos».
 
 
-## Quod Erat Demonstrandum (Q.E.D.)
+## Quod erat demonstrandum (Q.E.D.)
 
 ### Definición:
 Significa «Lo que se quería demostrar». Se utiliza al final de una demostración matemática o lógica para indicar que se ha probado correctamente la proposición planteada. Durante siglos fue habitual terminal las demostraciones con Q.E.D.. Hoy muchos matemáticos prefieren usar el símbolo ∎ (llamado «tumba», «tombstone» o «Halmos box»), aunque la abreviatura sigue siendo ampliamente reconocida; e.g., «Tras completa la demostración escribió: "*quod erat demonstrandum*"».
