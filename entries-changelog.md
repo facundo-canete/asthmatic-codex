@@ -1,4 +1,4 @@
-# Entries changelog
+# Entries Changelog
 Este changelog se va a dedicar a registrar todo cambio relativo únicamente a las entradas del Codex. 
 
 

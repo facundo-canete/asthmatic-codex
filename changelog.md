@@ -2,16 +2,22 @@
 Este changelog pretende, de manera muy simple, explicar los cambios exclusivamente referidos a la arquitectura del Codex. El punto de partida va a ser, sin embargo, el primer registro que se tenga del mismo: el Asthmatic Dictionary.
 
 
-## v2.4.1.x (25/06/2026): Asthmatic Codex [current]
+## v2.4.2.x (25/06/2026): Asthmatic Codex [current]
 
 ### Fixed
-- Archivo [*Entries changelog*](./entries-changelog.md) renombrado.
+- Archivo [*Entries changelog*](./entries-changelog.md), error ortográfico.
+
+
+## v2.4.1.x (25/06/2026): Asthmatic Codex [5c47aba]
+
+### Fixed
+- Archivo [*Entries Changelog*](./entries-changelog.md) renombrado.
 
 
 ## v2.4.0.x (25/06/2026): Asthmatic Codex [ea4cbf7]
 
 ### Added
-- Archivo [*Entries changelog*](./entries-changelog.md).
+- Archivo [*Entries Changelog*](./entries-changelog.md).
 
 ### Changed
 - Archivo *Eras* renombrado a [*Períodos*](./historia/periodos.md).
