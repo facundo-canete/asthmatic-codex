@@ -113,4 +113,4 @@ Yeites Matemáticos
 - Un archivo tiene que tener como mínimo tres entradas.
 - Agregar únicamente los conceptos que sirvan para recordar su significado. Evitar a toda costa agregar conceptos ya conocidos.
 - Reservar [Changelog](./changelog.md) exclusivamente para cambios en lo que respecta a la estructura del Codex.
-- Reservar [Entries changelog](./entries.md) exclusivamente para cambios en lo que respecta a las entradas del Codex.
+- Reservar [Entries Changelog](./entries.md) exclusivamente para cambios en lo que respecta a las entradas del Codex.
