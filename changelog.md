@@ -2,10 +2,16 @@
 Este changelog pretende, de manera muy simple, explicar los cambios exclusivamente referidos a la arquitectura del Codex. El punto de partida va a ser, sin embargo, el primer registro que se tenga del mismo: el Asthmatic Dictionary.
 
 
-## v2.4 (25/06/2026): Asthmatic Codex [current]
+## v2.4.1.x (25/06/2026): Asthmatic Codex [current]
+
+### Fixed
+- Archivo [*Entries changelog*](./entries-changelog.md) renombrado.
+
+
+## v2.4.0.x (25/06/2026): Asthmatic Codex [ea4cbf7]
 
 ### Added
-- Archivo [*Entries changelog*](./entries.md).
+- Archivo [*Entries changelog*](./entries-changelog.md).
 
 ### Changed
 - Archivo *Eras* renombrado a [*Períodos*](./historia/periodos.md).
@@ -16,13 +22,13 @@ Este changelog pretende, de manera muy simple, explicar los cambios exclusivamen
 - Archivo *Propiedades* para ser absorbido por [*Operadores*](./yeites-matematicos/operadores.md).
 
 
-## v2.3 (18/06/2026): Asthmatic Codex [09986fd]
+## v2.3.0.x (18/06/2026): Asthmatic Codex [09986fd]
 
 ### Added
 - Archivo [*README*](./README.md).
 
 
-## v2.2 (13/06/2026): Asthmatic Codex [0d10b36]
+## v2.2.0.x (13/06/2026): Asthmatic Codex [0d10b36]
 
 ### Added
 - Archivo [*Literatura y Obras*](./historia/literatura-y-obras.md) dentro de [*Historia*](./historia).
@@ -30,7 +36,7 @@ Este changelog pretende, de manera muy simple, explicar los cambios exclusivamen
 - Archivo *Git Ignore*.
 
 
-## v2.1 (11/06/2026): Asthmatic Codex [6e0155d]
+## v2.1.0.x (11/06/2026): Asthmatic Codex [6e0155d]
 
 ### Added
 - Archivo [*Phrases*](./english/phrases.md) dentro de [*English*](./english).
@@ -41,7 +47,7 @@ Este changelog pretende, de manera muy simple, explicar los cambios exclusivamen
 - Carpeta *Conceptos* renombrada a [*Abstracciones*](./abstracciones).
 
 
-## v2.0 (07/06/2026): Asthmatic Codex [0017e3f]
+## v2.0.0.x (07/06/2026): Asthmatic Codex [0017e3f]
 
 ### Added
 - Archivos [*Corrientes Filosóficas*](./abstracciones/corrientes-filosoficas.md), [*Cultura Digital y Expresiones*](./abstracciones/cultura-digital-y-expresiones.md), [*Educación*](./abstracciones/educacion.md), [*Falacias*](./abstracciones/falacias.md), [*Filosofía Fundamental*](./abstracciones/filosofia-fundamental.md), [*Filosofía Medieval y Cristiana*](./abstracciones/filosofia-medieval-y-cristiana.md), [*Hedonismo*](./abstracciones/hedonismo.md), [*Lingüística y Filología*](./abstracciones/linguistica-y-filologia.md), [*Método Socrático*](./abstracciones/metodo-socratico.md), [*Paradojas y Experimentos Mentales*](./abstracciones/paradojas-y-experimentos-mentales.md), [*Psicología*](./abstracciones/psicologia.md), [*Sesgos Cognitivos*](./abstracciones/sesgos-cognitivos.md) y [*Sociología y Ciencias Sociales*](./abstracciones/sociologia-y-ciencias-sociales.md) dentro de la carpeta *Conceptos*.

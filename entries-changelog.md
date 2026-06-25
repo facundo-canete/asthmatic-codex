@@ -2,7 +2,7 @@
 Este changelog se va a dedicar a registrar todo cambio relativo únicamente a las entradas del Codex. 
 
 
-## v2.4.1 (25/06/2026): Asthmatic Codex [current]
+## v2.4.0.1 (25/06/2026): Asthmatic Codex [ea4cbf7]
 
 ### Added
 - A0230: [*Aquello vs aquéllo*](./español/dudas-recurrentes.md#aquello-vs-aquéllo) en [*Dudas Recurrentes*](./español/dudas-recurrentes.md), dentro de [Español](./español).
@@ -26,7 +26,7 @@ Este changelog se va a dedicar a registrar todo cambio relativo únicamente a la
 - R0001: *Este vs éste, eso vs éso, aquello vs aquéllo* en [*Dudas Recurrentes*](./español/dudas-recurrentes.md), dentro de [*Español*](./español).
 
 
-## v2.1.6 (13/06/2026): Asthmatic Codex [4b64def]
+## v2.1.0.6 (13/06/2026): Asthmatic Codex [4b64def]
 
 ### Added
 - A0227: [*Efecto halo*](./abstracciones/sesgos-cognitivos.md#efecto-halo) en [*Sesgos Cognitivos*](./abstracciones/sesgos-cognitivos.md), dentro de [*Abstracciones*](./abstracciones).
@@ -34,7 +34,7 @@ Este changelog se va a dedicar a registrar todo cambio relativo únicamente a la
 - A0229: [*Sesgo de disponibilidad*](./abstracciones/sesgos-cognitivos.md#sesgo-de-disponibilidad), ibid.
 
 
-## v2.1.5 (13/06/2026): Asthmatic Codex [3fe736c]
+## v2.1.0.5 (13/06/2026): Asthmatic Codex [3fe736c]
 
 ### Added
 - A0224: [*Cerebro en una cubeta*](./abstracciones/paradojas-y-experimentos-mentales.md#cerebro-en-una-cubeta) en [*Paradojas y Experimentos Mentales*](./abstracciones/paradojas-y-experimentos-mentales.md), dentro de [*Abstracciones*](./abstracciones).
@@ -42,20 +42,20 @@ Este changelog se va a dedicar a registrar todo cambio relativo únicamente a la
 - A0226: [*Paradoja del mentiroso*](./abstracciones/paradojas-y-experimentos-mentales.md#paradoja-del-mentiroso), ibid.
 
 
-## v2.1.4 (13/06/2026): Asthmatic Codex [b785d31]
+## v2.1.0.4 (13/06/2026): Asthmatic Codex [b785d31]
 
 ### Added
 - A0222: [*Falso dilema, dilema falsificado, falacia del tercer exluido, falsa dicotomía, falsa oposición, falsa dualidad o falso correlativo*](./abstracciones/falacias.md#falso-dilema-dilema-falsificado-falacia-del-tercer-excluido-falsa-dicotomía-falsa-oposición-falsa-dualidad-falso-correlativo) en [*Falacias*](./abstracciones/falacias.md), dentro de [*Abstracciones*](./abstracciones).
 - A0223: [*Hombre de paja, espantapájaros o monigote*](./abstracciones/falacias.md#hombre-de-paja-espantapájaros-o-monigote), ibid.
 
 
-## v2.1.3 (13/06/2026): Asthmatic Codex [8825cc2]
+## v2.1.0.3 (13/06/2026): Asthmatic Codex [8825cc2]
 
 ### Added
 - A0221: [*Determinismo*](./abstracciones/filosofia-fundamental.md#determinismo) en [*Filosofía Fundamental*](./abstracciones/filosofia-fundamental.md), dentro de [*Abstracciones*](./abstracciones).
 
 
-## v2.1.2 (13/06/2026): Asthmatic Codex [ffd46dc]
+## v2.1.0.2 (13/06/2026): Asthmatic Codex [ffd46dc]
 
 ### Added
 - A0218: [*Empirismo*](./abstracciones/corrientes-filosoficas.md#empirismo) en [*Corrientes Filosóficas*](./abstracciones/corrientes-filosoficas.md), dentro de [*Abstracciones*](./abstracciones).
@@ -63,7 +63,7 @@ Este changelog se va a dedicar a registrar todo cambio relativo únicamente a la
 - A0220: [*Utilitarismo*](./abstracciones/corrientes-filosoficas.md#utilitarismo), ibid.
 
 
-## v2.1.1 (11/06/2026): Asthmatic Codex [6e0155d]
+## v2.1.0.1 (11/06/2026): Asthmatic Codex [6e0155d]
 
 ### Added
 - A0001: [*Estoicismo*](./abstracciones/corrientes-filosoficas.md#estoicismo) en [*Corrientes Filosóficas*](./abstracciones/corrientes-filosoficas.md), dentro de [*Abstracciones*](./abstracciones).
