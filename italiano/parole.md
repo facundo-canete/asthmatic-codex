@@ -123,6 +123,9 @@ Per ora non c'è niente da vedere qui.
 ### Definizione:
 Che colpisce fortemente, così da impedire quasi di respirare, che suscita grande impressione o ammirazione; e.g., «Uno spettacolo mozzafiato».
 
+### Traduzione:
+Asombroso, sa.
+
 
 # N
 

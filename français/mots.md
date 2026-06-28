@@ -60,7 +60,7 @@ Rien à voir ici pour le moment.
 3. Séduire par un éclat trompeur, fasciner ; e.g., « Se laisser éblouir de vaines promesses », « Il est ébloui par l'argent », « Il est tout ébloui de ses succès », « Sa démonstration nous éblouit plus qu'elle ne nous éclaire ».
 
 ### Traduction:
-Aceituna
+Deslumbrar.
 
 
 ## Ébranlement
@@ -72,7 +72,7 @@ Aceituna
 3. Bouleversement moral provoqué par un évènement dramatique et inattendu ; e.g., « Un grave ébranlement nerveux », « L'ébranlement des consciences après une défaite nationale ».
 
 ### Traduction:
-Aceituna
+Choque.
 
 
 # F
@@ -85,7 +85,7 @@ Aceituna
 2. Tremblement soudain et passager provoqué par le froid ou par le fièvre ; e.g., « Être pris de frisson », « Secoué de frissons ».
 
 ### Traduction:
-Aceituna
+Emoción.
 
 
 # G
@@ -124,13 +124,16 @@ Rien à voir ici pour le moment.
 3. Action d'établir une relation entre des personnes, des lieux ; e.g., « Les forces navales opèrent en liaison avec les forces aériennes ».
 
 ### Traduction:
-Aceituna
+Conexión.
 
 
 ## Louper
 
 ### Définition:
 Manquer, rater ; e.g., louper un travail, louper une occasion.
+
+### Traduction:
+Perder, extrañar.
 
 
 # M
@@ -170,6 +173,9 @@ Rien à voir ici pour le moment.
 
 1. Impression subite et violente, causée en particulier par le froid ; e.g., « Il est tombé dans l'étang gelé et le saisissement l'a rendu malade » ;
 2. Réaction très vive engendrée par une émotion, un sentiment ; e.g., « Il n'est pas encore revenu du saisissement que lui a procuré son arrivée », « Être muet de saisissement ».
+
+### Traduction:
+Convulsión.
 
 
 # T

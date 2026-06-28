@@ -24,7 +24,7 @@ This paradox arises when we consider the adjective 'heterological'. One can ask:
 ## Paradoja de Aquiles y la tortuga
 
 ### Definición:
-> «En una carrera, el corredor más rápido nunca puede superar al más lento, ya que el perseguidor debe primero llegar al punto donde comenzó el perseguido, de modo que el más lento siempre debe tener una ventaja». (Física VI:9, Aristóteles)
+> «En una carrera, el corredor más rápido nunca puede superar al más lento, ya que el perseguidor debe primero llegar al punto donde comenzó el perseguido, de modo que el más lento siempre debe tener una ventaja» (Física VI:9, Aristóteles).
 
 En la paradoja de Aquiles y la tortuga, Aquiles, llamado *el de los pies ligeros*, está disputando una carrera contra una tortuga. Aquiles concede a la tortuga una ventaja, por ejemplo, de 100 metros. Suponiendo que ambos comiencen a correr a una velocidad constante (uno muy rápido y la otra muy lenta), tras un tiempo finito, Aquiles correrá 100 metros, alcanzando el punto de partida de la tortuga. Durante este tiempo, la tortuga ha corrido una distancia mucho más corta, digamos que de 10 metros. Aquiles tardará un poco de tiempo más en recorrer esta distancia, intervalo en el que la tortuga habrá avanzado un poco más; por lo que a Aquiles aún le queda algo más de tiempo para llegar a este tercer punto, mientras la tortuga sigue avanzando. Por lo tanto, cada vez que Aquiles llega a algún lugar donde ha estado la tortuga, todavía tiene algo de distancia que recorrer antes de que pueda alcanzarla.
 

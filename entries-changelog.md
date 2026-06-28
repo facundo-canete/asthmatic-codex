@@ -2,6 +2,47 @@
 Este changelog se va a dedicar a registrar todo cambio relativo únicamente a las entradas del Codex. 
 
 
+## 2.4.0.2 (27/06/2026): Asthmatic Codex [current]
+
+### Added
+- A0231: traducción de [*Accession*](./english/words.md#accession) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0232: traducción de [*Allegedly*](./english/words.md#allegedly) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0233: traducción de [*Amiable*](./english/words.md#amiable) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0234: traducción de [*Blatantly*](./english/words.md#blatantly) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0235: traducción de [*Bloated*](./english/words.md#bloated) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0236: traducción de [*Boggle*](./english/words.md#boggle) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0237: traducción de [*Delve*](./english/words.md#delve) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0238: traducción de [*Finesse*](./english/words.md#finesse) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0239: traducción de [*Flabbergasted*](./english/words.md#flabbergasted) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0240: traducción de [*Flustered*](./english/words.md#flustered) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0241: traducción de [*Fraught*](./english/words.md#fraught) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0242: traducción de [*Fraught with*](./english/words.md#fraught-with) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0243: traducción de [*Homage*](./english/words.md#homage) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0244: traducción de [*Kettle*](./english/words.md#kettle) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0245: traducción de [*Miser*](./english/words.md#miser) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0246: traducción de [*Nigh*](./english/words.md#nigh) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0247: traducción de [*Nuance*](./english/words.md#nuance) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0248: traducción de [*Peril*](./english/words.md#peril) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0249: traducción de [*Probation*](./english/words.md#probation) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0250: traducción de [*Reluctantly*](./english/words.md#reluctantly) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0251: traducción de [*Trump-up*](./english/words.md#trump-up) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0252: traducción de [*Uncanny*](./english/words.md#uncanny) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0253: traducción de [*Unhinge*](./english/words.md#unhinge) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0254: traducción de [*Wage*](./english/words.md#wage) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0255: traducción de [*Wit*](./english/words.md#wit) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0256: traducción de [*Wreath*](./english/words.md#wreath) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0257: traducción de [*Éblouir*](./français/mots.md#éblouir) en [*Mots*](./français/mots.md), dentro de [*Français*](./français).
+- A0258: traducción de [*Ébranlement*](./français/mots.md#ébranlement) en [*Mots*](./français/mots.md), dentro de [*Français*](./français).
+- A0259: traducción de [*Frisson*](./français/mots.md#frisson) en [*Mots*](./français/mots.md), dentro de [*Français*](./français).
+- A0260: traducción de [*Liaison*](./français/mots.md#liaison) en [*Mots*](./français/mots.md), dentro de [*Français*](./français).
+- A0261: traducción de [*Louper*](./français/mots.md#louper) en [*Mots*](./français/mots.md), dentro de [*Français*](./français).
+- A0262: traducción de [*Saisissement*](./français/mots.md#saisissement) en [*Mots*](./français/mots.md), dentro de [*Français*](./français).
+- A0263: traducción de [*Mozzafiato*](./italiano/parole.md#mozzafiato) en [*Parole*](./italiano/parole.md), dentro de [*Italiano*](./italiano).
+
+### Fixed
+- F0005: error ortográfico en [*Paradoja de Aquiles y la tortuga*](./abstracciones/paradojas-y-experimentos-mentales.md#paradoja-de-aquiles-y-la-tortuga) en [*Paradojas y Experimentos Mentales*](./abstracciones/paradojas-y-experimentos-mentales.md), dentro de [*Abstracciones*](./abstracciones).
+
+
 ## v2.4.0.1 (25/06/2026): Asthmatic Codex [ea4cbf7]
 
 ### Added
