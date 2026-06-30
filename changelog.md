@@ -2,6 +2,12 @@
 Este changelog pretende, de manera muy simple, explicar los cambios exclusivamente referidos a la arquitectura del Codex. El punto de partida va a ser, sin embargo, el primer registro que se tenga del mismo: el Asthmatic Dictionary.
 
 
+## v2.5.0.x (30/06/2026): Asthmatic Codex [current]
+
+### Added
+- Archivo [*Idioms*](./english/idioms.md) dentro de [*English*](./english).
+
+
 ## v2.4.3.x (25/06/2026): Asthmatic Codex [b08cb78]
 
 ### Fixed
@@ -51,9 +57,9 @@ Este changelog pretende, de manera muy simple, explicar los cambios exclusivamen
 ## v2.1.0.x (11/06/2026): Asthmatic Codex [6e0155d]
 
 ### Added
-- Archivo [*Phrases*](./english/phrases.md) dentro de [*English*](./english).
+- Archivo *Phrases* dentro de [*English*](./english).
 - Carpeta [*Historia*](./historia).
-- Archivo [*Eras*](./historia/eras.md) dentro de [*Historia*](./historia).
+- Archivo *Eras* dentro de [*Historia*](./historia).
 
 ### Changed
 - Carpeta *Conceptos* renombrada a [*Abstracciones*](./abstracciones).
@@ -62,10 +68,28 @@ Este changelog pretende, de manera muy simple, explicar los cambios exclusivamen
 ## v2.0.0.x (07/06/2026): Asthmatic Codex [0017e3f]
 
 ### Added
-- Archivos [*Corrientes Filosóficas*](./abstracciones/corrientes-filosoficas.md), [*Cultura Digital y Expresiones*](./abstracciones/cultura-digital-y-expresiones.md), [*Educación*](./abstracciones/educacion.md), [*Falacias*](./abstracciones/falacias.md), [*Filosofía Fundamental*](./abstracciones/filosofia-fundamental.md), [*Filosofía Medieval y Cristiana*](./abstracciones/filosofia-medieval-y-cristiana.md), [*Hedonismo*](./abstracciones/hedonismo.md), [*Lingüística y Filología*](./abstracciones/linguistica-y-filologia.md), [*Método Socrático*](./abstracciones/metodo-socratico.md), [*Paradojas y Experimentos Mentales*](./abstracciones/paradojas-y-experimentos-mentales.md), [*Psicología*](./abstracciones/psicologia.md), [*Sesgos Cognitivos*](./abstracciones/sesgos-cognitivos.md) y [*Sociología y Ciencias Sociales*](./abstracciones/sociologia-y-ciencias-sociales.md) dentro de la carpeta *Conceptos*.
+- Archivo [*Corrientes Filosóficas*](./abstracciones/corrientes-filosoficas.md) dentro de la carpeta *Conceptos*.
+- Archivo [*Cultura Digital y Expresiones*](./abstracciones/cultura-digital-y-expresiones.md) dentro de la carpeta *Conceptos*.
+- Archivo [*Educación*](./abstracciones/educacion.md) dentro de la carpeta *Conceptos*.
+- Archivo [*Falacias*](./abstracciones/falacias.md) dentro de la carpeta *Conceptos*.
+- Archivo [*Filosofía Fundamental*](./abstracciones/filosofia-fundamental.md) dentro de la carpeta *Conceptos*.
+- Archivo [*Filosofía Medieval y Cristiana*](./abstracciones/filosofia-medieval-y-cristiana.md) dentro de la carpeta *Conceptos*.
+- Archivo [*Hedonismo*](./abstracciones/hedonismo.md) dentro de la carpeta *Conceptos*.
+- Archivo [*Lingüística y Filología*](./abstracciones/linguistica-y-filologia.md) dentro de la carpeta *Conceptos*.
+- Archivo [*Método Socrático*](./abstracciones/metodo-socratico.md) dentro de la carpeta *Conceptos*.
+- Archivo [*Paradojas y Experimentos Mentales*](./abstracciones/paradojas-y-experimentos-mentales.md) dentro de la carpeta *Conceptos*.
+- Archivo [*Psicología*](./abstracciones/psicologia.md) dentro de la carpeta *Conceptos*.
+- Archivo [*Sesgos Cognitivos*](./abstracciones/sesgos-cognitivos.md) dentro de la carpeta *Conceptos*.
+- Archivo [*Sociología y Ciencias Sociales*](./abstracciones/sociologia-y-ciencias-sociales.md) dentro de la carpeta *Conceptos*.
 - Archivo [*Lunfardo*](./español/lunfardo.md) dentro de la carpeta [*Español*](./español).
 - Carpeta [*Yeites Matemáticos*](./yeites-matematicos).
-- Archivos [*Diagramas*](./yeites-matematicos/diagramas.md), [*Fórmulas*](./yeites-matematicos/formulas.md), [*Fractales*](./yeites-matematicos/fractales.md), [*Funciones*](./yeites-matematicos/funciones.md), [*Propiedades*](./yeites-matematicos/propiedades.md), [*Símbolos*](./yeites-matematicos/simbolos.md) y [*Teoría*](./yeites-matematicos/teoria.md) dentro de la carpeta [*Yeites Matemáticos*](./yeites-matematicos).
+- Archivo [*Diagramas*](./yeites-matematicos/diagramas.md) dentro de la carpeta [*Yeites Matemáticos*](./yeites-matematicos).
+- Archivo [*Fórmulas*](./yeites-matematicos/formulas.md) dentro de la carpeta [*Yeites Matemáticos*](./yeites-matematicos).
+- Archivo [*Fractales*](./yeites-matematicos/fractales.md) dentro de la carpeta [*Yeites Matemáticos*](./yeites-matematicos).
+- Archivo [*Funciones*](./yeites-matematicos/funciones.md) dentro de la carpeta [*Yeites Matemáticos*](./yeites-matematicos).
+- Archivo *Propiedades* dentro de la carpeta [*Yeites Matemáticos*](./yeites-matematicos).
+- Archivo [*Símbolos*](./yeites-matematicos/simbolos.md) dentro de la carpeta [*Yeites Matemáticos*](./yeites-matematicos).
+- Archivo [*Teoría*](./yeites-matematicos/teoria.md) dentro de la carpeta [*Yeites Matemáticos*](./yeites-matematicos).
 
 
 ## v1.0: Asthmatic Dictionary

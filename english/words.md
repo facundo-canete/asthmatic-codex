@@ -4,7 +4,7 @@
 
 - [A](#a)
 - [B](#b)
-- [C - empty](#c)
+- [C](#c)
 - [D](#d)
 - [E - empty](#e)
 - [F](#f)
@@ -43,6 +43,18 @@
 Asunción.
 
 
+## Acquaintance
+
+### Definitions:
+
+1. A person that you know but who is not a close friend; e.g., 'Claire has a wide circle of friends and acquaintances'.
+2. Slight friendship; e.g., 'He hoped their acquaintance would develop further', 'A man *with* whom I had a passing acquaintance'.
+3. Knowledge of something; e.g., 'I had little acquaintance *with* modern poetry'.
+
+### Translation:
+Conocido, da; conocimiento de algo.
+
+
 ## Allegedly
 
 ### Definition:
@@ -61,6 +73,15 @@ Pleasant, friendly, likeable and good-tempered; e.g., 'He seemed an amiable youn
 Amable.
 
 
+## Assertion
+
+### Definition:
+A statement saying that you strongly believe something to be true; e.g., 'He was correct in his assertion that the minister had been lying', 'Do you have any evidence to support your assertions?'.
+
+### Translation:
+Afirmación.
+
+
 ## Autological
 
 ### Definition:
@@ -68,6 +89,24 @@ An autological word expresses a property that it also possesses. A word which is
 
 
 # B
+
+## Benchmark
+
+### Definition:
+Something that can be measured and used as a standard that other things can be compared with; e.g., tests at the age of seven provide a benchmark against which the child's progress at school can be measured.
+
+### Translation:
+Punto de referencia.
+
+
+## Betrothal
+
+### Definition:
+An agreement to marry somebody.
+
+### Translation:
+Compromiso con alguien.
+
 
 ## Bigot
 
@@ -95,6 +134,15 @@ Swollen and rounded because of containing too much air, liquid or food; e.g., a 
 Hinchado, da.
 
 
+## Bluestocking
+
+### Definition:
+A well-educated person who is interested in ideas and studying.
+
+### Translation:
+Literato, ta; cultalatiniparla.
+
+
 ## Boggle
 
 ### Definitions:
@@ -106,9 +154,56 @@ Hinchado, da.
 Sobresaltarse.
 
 
+## Bonny
+
+### Definition:
+Very pretty/attractive; e.g., 'A bonny baby/lass'.
+
+### Transltion:
+Hermoso, sa.
+
+
+## Buxom
+
+### Definition:
+Large in an attractive way, and with large breasts.
+
+### Translation:
+Exuberante.
+
+
 # C
 
-Nothing to see here yet.
+## Chagrin
+
+### Definition:
+A feeling of being disappointed or annoyed; e.g., 'To my chagrin, nobody wanted to hear me sing', 'Jon loves to play the trumpet, much to the chagrin of his neighbours'.
+
+### Translation:
+Disgusto.
+
+
+## Cipher
+
+### Definitions:
+
+1. A secret way of writing, especially one in which a set of letters or symbols is used to represent others; e.g., a message in cipher.
+2. A person or thing of no importance; e.g., 'To her employers she was a mere cipher, with no human feelings at all'.
+3. The first letters of somebody's name combined in a design and used to mark things; e.g., 'The glasses were engraved with the Queen's cipher'.
+
+### Translation:
+Cifrado, código.
+
+
+## Cleavage
+
+### Definitions:
+
+1. The space between a woman's breasts that can be seen above a dress that does not completely cover them; e.g., 'She leaned forward slightly, revealing a deep cleavage'.
+2. A difference or division between people or groups; e.g., a deep cleavage between rich and poor in society.
+
+### Translation:
+Escote, escisión.
 
 
 # D

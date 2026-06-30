@@ -2,7 +2,26 @@
 Este changelog se va a dedicar a registrar todo cambio relativo únicamente a las entradas del Codex. 
 
 
-## 2.4.0.2 (27/06/2026): Asthmatic Codex [current]
+## v2.5.0.1 (30/06/2026): Asthmatic Codex [current]
+
+### Added
+- A0264: [*Acquaintance*](./english/words.md#acquaintance) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0265: [*Have a nodding acquaintance with somebody/something*](./english/idioms.md#have-a-nodding-acquaintance-with-somebodysomething) en [*Idioms*](./english/idioms.md), dentro de [*English*](./english).
+- A0266: [*Make somebody's acquaintance / make the acquaintance of somebody*](./english/idioms.md#make-somebodys-acquaintance--make-the-acquaintance-of-somebody) en [*Idioms*](./english/idioms.md), dentro de [*English*](./english).
+- A0267: [*Of your acquaintance*](./english/idioms.md#of-your-acquaintance) en [*Idioms*](./english/idioms.md), dentro de [*English*](./english).
+- A0268: [*On first acquaintance*](./english/idioms.md#on-first-acquaintance) en [*Idioms*](./english/idioms.md), dentro de [*English*](./english).
+- A0269: [*Assertion*](./english/words.md#assertion) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0270: [*Benchmark*](./english/words.md#benchmark) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0271: [*Betrothal*](./english/words.md#betrothal) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0272: [*Bluestocking*](./english/words.md#bluestocking) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0273: [*Bonny*](./english/words.md#bonny) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0274: [*Buxom*](./english/words.md#buxom) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0275: [*Chagrin*](./english/words.md#chagrin) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0276: [*Cipher*](./english/words.md#cipher) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0276: [*Cleavage*](./english/words.md#cleavage) en [*Words*](./english/words.md), dentro de [*English*](./english).
+
+
+## v2.4.0.2 (27/06/2026): Asthmatic Codex [4f53f0e]
 
 ### Added
 - A0231: traducción de [*Accession*](./english/words.md#accession) en [*Words*](./english/words.md), dentro de [*English*](./english).
