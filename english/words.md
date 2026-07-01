@@ -6,7 +6,7 @@
 - [B](#b)
 - [C](#c)
 - [D](#d)
-- [E - empty](#e)
+- [E](#e)
 - [F](#f)
 - [G](#g)
 - [H](#h)
@@ -51,7 +51,7 @@ Asunción.
 2. Slight friendship; e.g., 'He hoped their acquaintance would develop further', 'A man *with* whom I had a passing acquaintance'.
 3. Knowledge of something; e.g., 'I had little acquaintance *with* modern poetry'.
 
-### Translation:
+### Translations:
 Conocido, da; conocimiento de algo.
 
 
@@ -139,7 +139,7 @@ Hinchado, da.
 ### Definition:
 A well-educated person who is interested in ideas and studying.
 
-### Translation:
+### Translations:
 Literato, ta; cultalatiniparla.
 
 
@@ -191,7 +191,7 @@ Disgusto.
 2. A person or thing of no importance; e.g., 'To her employers she was a mere cipher, with no human feelings at all'.
 3. The first letters of somebody's name combined in a design and used to mark things; e.g., 'The glasses were engraved with the Queen's cipher'.
 
-### Translation:
+### Translations:
 Cifrado, código.
 
 
@@ -202,7 +202,7 @@ Cifrado, código.
 1. The space between a woman's breasts that can be seen above a dress that does not completely cover them; e.g., 'She leaned forward slightly, revealing a deep cleavage'.
 2. A difference or division between people or groups; e.g., a deep cleavage between rich and poor in society.
 
-### Translation:
+### Translations:
 Escote, escisión.
 
 
@@ -217,12 +217,88 @@ To search, especially as if by digging, in order to find a thing of information;
 Ahondar.
 
 
+## Devious
+
+### Definitions:
+
+1. Behaving in a dishonest or indirect way, or tricking people, in order to get something; e.g., a devious politician, 'He got rich by devious means'.
+2. A route or path that is not straight but has many changes in direction; i.e., not direct; e.g., a devious route from the airport.
+
+### Translations:
+Astuto, ta; sinuoso, sa; intrincado, da.
+
+
+## Dim
+
+### Definitions:
+
+1. (about light) Not bright; e.g., the dim glow of the fire in the grate.
+2. (about a place) Where you cannot see well because there is not much light; e.g., a dim room/street.
+3. (about a shape) That you cannot see well because there is not much light; e.g., the dim outline of a house in the moonlight.
+4. (about eyes) Not able to see well; e.g., 'His eyesight is getting dim'.
+5. (about memories) That you cannot remember or imagine clearly; e.g., dim memories, in the dim and distant past, 'She had a dim recollection of the visit'.
+6. (about a person) Not intelligent; e.g., 'He's very dim'.
+7. (about a situation) Not giving any reason to have hope; i.e., not good; e.g., 'Her future career prospects look dim'.
+
+### Translations:
+Oscurecer, apagarse, difuminarse, reducir la intensidad, borrar, ofuscar, turbio, sombrío, mortecino, empañarse/empañado, confuso, lerdo, poco favorable, indistinto, bajar la luz.
+
+
+## Doe-eyed
+
+### Definition:
+Having large, usually dark eyes, suggesting somebody with a gentle and innocent nature; e.g., a doe-eyed beauty, 'He gives the impression of doe-eyed innocence'.
+
+
+## Doom-laden
+
+### Definition:
+Predicting or leading to death, destruction or a bad situation; e.g., doom-laden economic forecasts.
+
+
 # E
 
-Nothing to see here yet.
+## Erstwhile
+
+### Definition:
+Former; i.e., that until recently was the type of person or thing described but is not any more; e.g., an erstwhile opponent, 'His erstwhile friends turned against him'.
+
+### Translation:
+«Hasta ese entonces...»
+
+
+## Evoke
+
+### Definition:
+To bring a feeling, a memory or an image into your mind; e.g., 'The music evoked memories of her youth', 'His case is unlikely to evoke public sympathy'.
+
+### Translation:
+Evocar.
+
+
+## Extent
+
+### Definitions:
+
+1. How large, important, serious, etc. something is; e.g., 'It is difficult to assess the full extent of the damage', 'She was exaggerating the true extent of the problem', 'They have launched an investigation to determine the extent of police misconduct in this case', 'We don't know the extent of his injuries at this point', 'I was amazed at the extent of his knowledge'.
+2. The physical size of an area; e.g., 'You can't see the full extent of the beach from here', 'The island is 300 square kilometres *in extent*'.
+
+### Translations:
+Medida, grado, extensión, alcance.
 
 
 # F
+
+## Feeble
+
+### Definitions:
+
+1. Very weak; e.g., 'Only the royal women seemed strong, leading armies and dominating their feeble husbands', 'He looked feeble and confused', 'She was pale and had feeble pulse', 'The patient appears feeble and emaciated'.
+2. Not effective; i.e., not showing energy or effort; e.g., a feeble argument/excuse/joke, 'She made a feeble attempt to explain what had happened', 'Don't be so feeble! Tell her you don't want to go', 'He told a few feeble jokes'.
+
+### Translations:
+Débil; endeble; flojo, ja.
+
 
 ## Finesse
 
@@ -259,6 +335,15 @@ Nervous and confused; e.g., 'I am flustered by the unexpected question'.
 Desconcertado, da.
 
 
+## Forbearance
+
+### Definition:
+The quality of being patient and kind towards other people, especially when they have done something wrong; e.g., 'The mortgage company had acted with forbearance, only taking them to court as a last resort', 'We are very grateful for the cooperation and forbearance of all the staff'.
+
+### Translations:
+Paciencia, abstención, autodominio.
+
+
 ## Fraught
 
 ### Definition:
@@ -274,12 +359,32 @@ Full of unpleasant things such as problems or dangers; e.g, 'The negotiations ha
 Cargado de, cargada de.
 
 
+## Frivolously
+
+### Definitions:
+
+1. In a way that is silly or funny, especially when such behaviour is not suitable; e.g., 'A teacher should not behave frivolously in front of their students'.
+2. In a way that has no serious or useful purpose; e.g., 'But this does not mean that Henry took marriage frivolously', 'I never spend money frivolously — I can't afford to'.
+
+### Translation:
+Frívolamente.
+
+
 # G
 
 ## Gaslighting
 
 ### Definition:
 The action of tricking or controlling someone by making them believe things are not true, especially by suggesting that they may be mentally ill.
+
+
+## Gleaming
+
+### Definition:
+Shining brightly because of being very clean; e.g., gleaming white teeth, a gleaming new kitchen.
+
+### Translation:
+Brillante.
 
 
 # H
@@ -318,7 +423,7 @@ Nothing to see here yet.
 ### Definition:
 A container for boiling water, that has a lid, handle, and spout and is made from plastic or metal; e.g., 'Put the kettle on, please'.
 
-### Translation:
+### Translations:
 Pava, hervidor.
 
 
@@ -389,7 +494,7 @@ A portmanteau word is one formed by combining two other words; e.g., 'Jeggings' 
 1. A period of time when a criminal is not in prison but agrees to behave well and not commit any mode crimes in order to avoid being sent to prison; e.g., 'He was fined and given two years' probation', 'The judge put him on probation for two years';
 2. A period when a new employee can be fired if they do not perform well; e.g., 'A three month probation period'.
 
-### Translation:
+### Translations:
 Libertad condicional, período de prueba.
 
 
@@ -432,7 +537,7 @@ Falsificar.
 ### Definition:
 Strange or mysterious, often in a way that is slightly frightening; e.g., 'It was uncanny the way that she always knew what he was thinking'.
 
-### Translation:
+### Translations:
 Raro, misterioso.
 
 

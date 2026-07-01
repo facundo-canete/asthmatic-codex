@@ -2,7 +2,34 @@
 Este changelog se va a dedicar a registrar todo cambio relativo únicamente a las entradas del Codex. 
 
 
-## v2.5.0.1 (30/06/2026): Asthmatic Codex [current]
+## v2.5.0.2 (30/06/2026): Asthmatic Codex [current]
+
+### Added
+- A0278: [*Devious*](./english/words.md#devious) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0279: [*Dim*](./english/words.md#dim) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0280: [*Take a dim view of somebody/something*](./english/idioms.md#take-a-dim-view-of-somebodysomething) en [*Idioms*](./english/idioms.md), dentro de [*English*](./english).
+- A0281: [*Doe-eyed*](./english/words.md#doe-eyed) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0282: [*Doom-laden*](./english/words.md#doom-laden) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0283: [*Erstwhile*](./english/words.md#erstwhile) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0284: [*Evoke*](./english/words.md#evoke) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0285: [*Extent*](./english/words.md#extent) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0286: [*To... extent*](./english/idioms.md#to-extent) en [*Idioms*](./english/idioms.md), dentro de [*English*](./english).
+- A0287: [*Feeble*](./english/words.md#feeble) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0288: [*Forbearance*](./english/words.md#forbearance) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0289: [*Frivolously*](./english/words.md#frivolously) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0290: [*Gleaming*](./english/words.md#gleaming) en [*Words*](./english/words.md), dentro de [*English*](./english).
+
+### Fixed
+- F0006: [*Acquaintance*](./english/words.md#acquaintance) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- F0007: [*Bluestocking*](./english/words.md#bluestocking) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- F0008: [*Cipher*](./english/words.md#cipher) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- F0009: [*Cleavage*](./english/words.md#cleavage) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- F0010: [*Kettle*](./english/words.md#kettle) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- F0011: [*Probation*](./english/words.md#probation) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- F0012: [*Uncanny*](./english/words.md#uncanny) en [*Words*](./english/words.md), dentro de [*English*](./english).
+
+
+## v2.5.0.1 (30/06/2026): Asthmatic Codex [f9b53e0]
 
 ### Added
 - A0264: [*Acquaintance*](./english/words.md#acquaintance) en [*Words*](./english/words.md), dentro de [*English*](./english).
@@ -18,7 +45,7 @@ Este changelog se va a dedicar a registrar todo cambio relativo únicamente a la
 - A0274: [*Buxom*](./english/words.md#buxom) en [*Words*](./english/words.md), dentro de [*English*](./english).
 - A0275: [*Chagrin*](./english/words.md#chagrin) en [*Words*](./english/words.md), dentro de [*English*](./english).
 - A0276: [*Cipher*](./english/words.md#cipher) en [*Words*](./english/words.md), dentro de [*English*](./english).
-- A0276: [*Cleavage*](./english/words.md#cleavage) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0277: [*Cleavage*](./english/words.md#cleavage) en [*Words*](./english/words.md), dentro de [*English*](./english).
 
 
 ## v2.4.0.2 (27/06/2026): Asthmatic Codex [4f53f0e]

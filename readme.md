@@ -22,6 +22,7 @@ Abstracciones (1)
 English
   Expressions
   FAQ
+  Idioms
   Words
 
 Español

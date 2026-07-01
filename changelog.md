@@ -2,7 +2,7 @@
 Este changelog pretende, de manera muy simple, explicar los cambios exclusivamente referidos a la arquitectura del Codex. El punto de partida va a ser, sin embargo, el primer registro que se tenga del mismo: el Asthmatic Dictionary.
 
 
-## v2.5.0.x (30/06/2026): Asthmatic Codex [current]
+## v2.5.0.x (30/06/2026): Asthmatic Codex [f9b53e0]
 
 ### Added
 - Archivo [*Idioms*](./english/idioms.md) dentro de [*English*](./english).
