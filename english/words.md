@@ -13,14 +13,14 @@
 - [I](#i)
 - [J - empty](#j)
 - [K](#k)
-- [L - empty](#l)
+- [L](#l)
 - [M](#m)
 - [N](#n)
 - [O - empty](#o)
 - [P](#p)
-- [Q - empty](#q)
+- [Q](#q)
 - [R](#r)
-- [S - empty](#s)
+- [S](#s)
 - [T](#t)
 - [U](#u)
 - [V - empty](#v)
@@ -389,6 +389,39 @@ Brillante.
 
 # H
 
+## Hackneyed
+
+### Definition:
+Used too often and therefore boring; e.g., a hackneyed phrase/subject.
+
+### Translations:
+Trillado, da; gastado, da.
+
+
+## Hair shirt
+
+### Definition:
+A shirt made of rough cloth containing hair, worn in the past by people who wished to punish themselves for religious reasons.
+
+
+## Hideous
+
+### Definition:
+Very ugly or unpleasant; e.g., a hideous face/building/dress/crime.
+
+### Translations:
+Horrible; espantoso, sa; repulsivo, va.
+
+
+## Hole-in-the-corner
+
+### Definition:
+placeholder
+
+### Translation:
+placeholder
+
+
 ## Homage
 
 ### Definitions:
@@ -402,6 +435,20 @@ Homenaje.
 
 # I
 
+## Idle
+
+### Definitions:
+
+1. (of people) Not working hard; e.g., an idle student.
+2. (of machines, factories, etc.) Not in use; e.g., to lie/stand/remain idle.
+3. (of people) Without work; e.g., 'Over ten per cent of the workforce is now idle', 'He never stayed idle for long'.
+4. With no particular purpose or effect; e.g., idle chatter/curiosity, 'It was just an idle threat (= not serious)', 'It is idle to pretend that their marriage is a success'.
+5. (of time) Not spent doing work or something particular; e.g., 'In idle moments, he carved wooden figures'.
+
+### Translations:
+Inactivo, va; ocioso, sa; libre; desocupado, da.
+
+
 ## Ignominious
 
 ### Definition:
@@ -409,6 +456,18 @@ Embarrassing because of being a complete failure, especially of events or behavi
 
 ### Translation:
 Ignominioso, sa.
+
+
+## Indulgence
+
+### Definitions:
+
+1. The state or act of having or doing whatever you want; i.e., the state of allowing somebody to have or do whatever they want; e.g., to lead a life of indulgence, 'Avoid excessive indulgence in sweets and canned drinks'.
+2. Something that you allow yourself to have even though it is not essential; e.g., 'The holiday was an extravagant indulgence'.
+3. The quality of being willing to ignore the weaknesses in somebody/something; e.g., 'He begged the audience's indulgence to read some passages from his latest book'.
+
+### Translations:
+Indulgencia, complacencia, satisfacción, desenfreno, tolerancia.
 
 
 # J
@@ -429,7 +488,37 @@ Pava, hervidor.
 
 # L
 
-Nothing to see here yet.
+## Laureate
+
+### Definition:
+A person who has been given an official honour or prize for something important they have achieved; e.g., a Nobel laureate.
+
+### Translation:
+Laureado, da.
+
+
+## Lavish
+
+### Definitions:
+
+1. Large in amount, or impressive, and usually costing a lot of money; e.g., lavish gifts/costumes/celebrations.
+2. Giving or doing something generously; e.g., 'He was *lavish in* his praise for her paintings', 'They were rather *lavish with* their presents'.
+
+### Translations:
+Prodigar; lujoso, sa; pródigo, ga; profuso, sa.
+
+
+## Linger
+
+### Definitions:
+
+1. To continue to exist for longer than expected; e.g., 'The faint smell of her perfume lingered in the room', 'The civil war *lingered on* well into de 1930s'.
+2. To stay somewhere for longer because you do not want to leave; i.e., to spend a long time doing something; e.g., 'She lingered for a few minutes to talk to Nick', 'We lingered over breakfast on the terrace'.
+3. To continue to look at somebody/something or think about something for longer than usual; e.g., 'His eyes *lingered on* the diamond ring on her finger'.
+4. To stay alive but become weaker; e.g., 'He *lingered on* for several months after the heart attack'.
+
+### Translations:
+Persistir, permanecer, tardar, durar, dilatarse, retardarse.
 
 
 # M
@@ -472,6 +561,18 @@ Nothing to see here yet.
 
 # P
 
+## Pageant
+
+### Definitions:
+
+1. A public entertainment in which people dress in historical costumes and give performances of scenes from history; e.g., 'They were filming a colourful pageant about Scotland's past'.
+2. A competition for young women in which their beauty, personal qualities and skills are judged; e.g., a beauty pageant.
+3. Something that is considered as a series of interesting and different events; e.g., life's rich pageant. 
+
+### Translations:
+Pompa, desfile histórico, espectáculo histórico.
+
+
 ## Peril
 
 ### Definition:
@@ -481,10 +582,46 @@ Great danger, or something that is very dangerous; e.g., 'I never felt that my l
 Peligro.
 
 
+## Pious
+
+### Definitions:
+
+1. Having or showing a deep respect for God and religion; e.g., pious acts.
+2. Pretending to be religious, moral or good in order to impress other people; e.g., pious sentiments, a rather pious and condescending smile, 'He dismissed his critics as pious do-gooders'.
+3. Something that you want to happen but is unlikely to be achieved; e.g., 'Such reforms seem likely to remain little more than *pious hopes*'.
+
+### Translations:
+Piadoso, sa; beato, ta; digno de alabanza, digna de alabanza.
+
+
+## Pledge
+
+### Definitions:
+
+1. To formally promise to give or do something; e.g., 'Japan has pledged $100 million in humanitarian aid', 'The government pledged their support for the plan', 'We all had to pledge allegiance to the flag (= state that we are loyal to our country)', 'The group has pledged to continue campaigning', 'The group has pledged that they will continue campaigning'.
+2. To make somebody or yourself formally promise to do something; e.g., 'They were all pledged to secrecy', 'The government has pledged itself to root out corruption'.
+3. To leave something with somebody as a pledge.
+4. To promise to become a junior member of a fraternity or sorority; e.g., 'Do you think you'll pledge this semester?', 'My brother pledged Sigma Nu (= promised to join the Sigma Nu fraternity)'.
+
+### Translations:
+Promesa/prometer, compromiso/comprometerse, prenda/dar en prenda.
+
+
 ## Portmanteau
 
 ### Definition:
 A portmanteau word is one formed by combining two other words; e.g., 'Jeggings' is a portmanteau word formed from 'jeans' and 'leggings'. 
+
+
+## Privy
+
+### Definitions:
+
+1. Allowed to know about something secret; e.g., 'She was not *privy to* any information contained in the letters'.
+2. A toilet, especially an outdoor one.
+
+### Translations:
+Privado, da; secreto; retrete.
 
 
 ## Probation
@@ -500,10 +637,30 @@ Libertad condicional, período de prueba.
 
 # Q
 
-Nothing to see here yet.
+## Quirk
+
+### Definitions:
+
+1. An aspect of somebody's personality or behaviour that is a little strange; e.g., 'Everyone has their own little quirks and mannerisms'.
+2. A strange thing that happens, especially by accident; e.g., an unpredictable quirk of history, 'By a strange quirk of fate they had booked into the same hotel'.
+3. To twist your mouth or eyebrows suddenly; i.e., (of your mouth or eyebrows) to move in this way; e.g., 'David quirked an eyebrow and smirked slightly', 'Her lips quirked suddenly'.
+
+### Translations:
+Peculiaridad, capricho, rasgo.
 
 
 # R
+
+## Relentless
+
+### Definitions:
+
+1. Not stopping; i.e., not getting less strong; e.g., a relentless pursuit of perfection, 'The sun was relentless'.
+2. Refusing to give up or be less strict or severe; e.g., a relentless enemy.
+
+### Translations:
+Implacable; inexorable; despiadado, da.
+
 
 ## Reluctantly
 
@@ -516,7 +673,61 @@ De mala gana.
 
 # S
 
-Nothing to see here yet.
+## Schemer
+
+### Definition:
+A person who plans secretly to do something for their own advantage; e.g., 'Isabella was intense, single-minded and ardently Catholic, while Ferdinand was a devious and subtle schemer', 'He regards all politicians as power-hungry schemers'.
+
+
+## Schism
+
+### Definition:
+A strong disagreement within an organisation, especially a religious one, that makes its members divide into separate groups; e.g.,  'The disagreement eventually led to a *schism within* the Church', 'The growing/widening *schism between* the leadership and the ordinary party members', 'By 1914 the party was dangerously close to schism'.
+
+### Translation:
+Cisma.
+
+
+## Seep
+
+### Definition:
+(especially of liquids) To flow slowly and in small quantities through something or into something; e.g., 'Blood was beginning to seep through the bandages', 'Water seeped from a crack in the pipe', 'Gradually the pain seeped away'.
+
+### Translations:
+Filtrarse, colarse, rezumarse.
+
+
+## Sift
+
+### Definitions:
+
+1. To put flour or some other fine substance through a sieve/sifter; e.g., 'Sift the flour into a bowl'.
+2. To examine something very carefully in order to decide what is important or useful or to find something important; e.g., 'We will sift every scrap of evidence', 'Computers are being used to sift the information', 'Crash investigators have been *sifting through* the wreckage of the aircraft'.
+3. To separate something from a group of things; e.g., 'He sifted the relevant data from the rest', 'She looked quickly through the papers, *sifting out from* the pile anything that looked interesting'.
+
+### Translations:
+Tamizar, examinar cuidadosamente, cerner, filtrarse, entresacar, espolvorear.
+
+
+## Slur
+
+### Definitions:
+
+1. To pronounce words in a way that is not clear so that they run into each other, usually because you are drunk or tired; e.g., 'She had drunk too much and her speech was slurred'.
+2. To play or sing a group of two or more musical notes so that each one runs smoothly into the next.
+3. To harm somebody's reputation by making unfair or false statements about them; e.g., 'She accused the journalist of slurring the company's name'.
+
+### Translations:
+Articular mal, ligar, calumnia/calumniar.
+
+
+## Soap opera:
+
+### Definition:
+A story about the lives and problems of a group of people that is broadcasted every day or several times a week on television or radio; e.g., the longest-running soap opera on British television.
+
+### Translation:
+Telenovela.
 
 
 # T

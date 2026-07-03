@@ -6,6 +6,12 @@
 To only know somebody/something slightly.
 
 
+## Hole-in-the-corner
+
+### Meaning:
+Describes actions or policies that are secretive, clandestine, or sneaky. It typically implies that something is being hidden away from the public eye, often to avoid blame, scrutiny, or punishment; e.g., 'Henry VIII followed it only in the case of his first two Queens, Catherine of Aragon and Anne Boleyn, who were indeed publicly and gloriously crowned soon after their rather hole-in-the-corner weddings'.
+
+
 ## Make somebody's acquaintance / make the acquaintance of somebody
 
 ### Meaning:
@@ -28,6 +34,12 @@ When you first meet somebody; e.g., 'Even on first acquaintance it was clear tha
 
 ### Meaning:
 To think somebody/something is bad; i.e., to not have a good opinion of somebody/something; e.g., 'She took a dim view of my suggestion'.
+
+
+## The devil makes work for idle hands
+
+### Meaning:
+People who do not have enough to do often start to do wrong; e.g., 'She blamed the crimes on the local jobless teenagers. "The devil makes work for idle hands", she would say'.
 
 
 ## To... extent

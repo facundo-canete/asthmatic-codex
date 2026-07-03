@@ -2,7 +2,33 @@
 Este changelog se va a dedicar a registrar todo cambio relativo únicamente a las entradas del Codex. 
 
 
-## v2.5.0.2 (30/06/2026): Asthmatic Codex [current]
+## v2.5.0.3 (03/07/2026): Asthmatic Codex [current]
+
+### Added
+- A0291: [*Hackneyed*](./english/words.md#hackneyed) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0292: [*Hair shirt*](./english/words.md#hair-shirt) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0293: [*Hideous*](./english/words.md#hideous) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0294: [*Hole-in-the-corner*](./english/idioms.md#hole-in-the-corner) en [*Idioms*](./english/words.md), dentro de [*English*](./english).
+- A0295: [*Idle*](./english/words.md#idle) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0296: [*The devil makes work for idle hands*](./english/idioms.md#the-devil-makes-work-for-idle-hands) en [*Idioms*](./english/words.md), dentro de [*English*](./english).
+- A0297: [*Indulgence*](./english/words.md#indulgence) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0298: [*Laureate*](./english/words.md#laureate) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0299: [*Lavish*](./english/words.md#lavish) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0300: [*Linger*](./english/words.md#linger) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0301: [*Pageant*](./english/words.md#pageant) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0302: [*Pious*](./english/words.md#pious) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0303: [*Pledge*](./english/words.md#pledge) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0304: [*Privy*](./english/words.md#privy) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0305: [*Quirk*](./english/words.md#quirk) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0306: [*Relentless*](./english/words.md#relentless) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0307: [*Schemer*](./english/words.md#schemer) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0308: [*Schism*](./english/words.md#schism) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0309: [*Seep*](./english/words.md#seep) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0310: [*Sift*](./english/words.md#sift) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0311: [*Slur*](./english/words.md#slur) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0312: [*Soap opera*](./english/words.md#soap-opera) en [*Words*](./english/words.md), dentro de [*English*](./english).
+
+## v2.5.0.2 (30/06/2026): Asthmatic Codex [1b1b3a2]
 
 ### Added
 - A0278: [*Devious*](./english/words.md#devious) en [*Words*](./english/words.md), dentro de [*English*](./english).
