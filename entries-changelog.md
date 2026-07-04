@@ -2,7 +2,23 @@
 Este changelog se va a dedicar a registrar todo cambio relativo únicamente a las entradas del Codex. 
 
 
-## v2.5.0.3 (03/07/2026): Asthmatic Codex [current]
+## v2.5.0.4 (03/07/2026): Asthmatic Codex [current]
+
+### Added
+- A0313: [*Spare*](./english/words.md#spare) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0314: [*Go spare*](./english/idioms.md#go-spare) en [*Idioms*](./english/idioms.md), dentro de [*English*](./english).
+- A0315: [*Stall*](./english/words.md#stall) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0316: [*Striking*](./english/words.md#striking) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0317: [*Subdue*](./english/words.md#subdue) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0318: [*Sultry*](./english/words.md#sultry) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0319: [*Swift*](./english/words.md#swift) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0320: [*Tabloid*](./english/words.md#tabloid) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0321: [*Tailor*](./english/words.md#tailor) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0322: [*Tame*](./english/words.md#tame) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0323: [*Thee*](./english/words.md#thee) en [*Words*](./english/words.md), dentro de [*English*](./english).
+
+
+## v2.5.0.3 (03/07/2026): Asthmatic Codex [8792914]
 
 ### Added
 - A0291: [*Hackneyed*](./english/words.md#hackneyed) en [*Words*](./english/words.md), dentro de [*English*](./english).

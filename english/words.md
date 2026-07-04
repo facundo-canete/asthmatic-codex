@@ -730,7 +730,123 @@ A story about the lives and problems of a group of people that is broadcasted ev
 Telenovela.
 
 
+## Spare
+
+### Definitions:
+
+1. Available to do what you want with rather than work; e.g., 'He's studying music in his spare time', 'I haven't had a spare moment this morning'.
+2. That is not being used or is not needed at the present time; e.g., 'We've got a spare bedroom, if you'd like to stay'.
+3. Kept in case you need to replace the one you usually use; i.e., extra; e.g., a spare key/tyre, 'Take some spare clothes in case you get wet'.
+4. (of a person) Thin, and usually quite tall.
+
+### Translation:
+Libre, de repuesto, sobrante.
+
+
+## Stall
+
+### Definitions:
+
+1. A table or small shop with an open front that people sell things from, especially at a market; e.g., 'He works on a market stall in the Square'.
+2. A section inside a farm building that is large enough for one animal to be kept in; e.g., 'We had to muck out stalls and groom the horses'.
+3. A small area in a room, surrounded by glass, walls, etc., that contains a shower or toilet; e.g., a bathroom stall.
+4. The seats that are nearest to the stage in a theatre; e.g., the front row of the stalls.
+5. The seats at the front of a church where the choir and priests sit.
+6. A situation in which a vehicle's engine suddenly stops because it is not getting enough power.
+7. A situation in which an aircraft loses speed and goes steeply downwards; e.g., 'The plane went into a stall'.
+
+### Translations:
+Puesto, casilla, caseta, establo, butaca, silla de coro, parar/pararse.
+
+
+## Striking
+
+### Definitions:
+
+1. Interesting and unusual enough to attract attention; e.g., 'She bears a striking resemblance to her older sister', 'In striking contrast to their brothers, the girls were both intelligent and charming'.
+2. Very attractive, often in an unusual way.
+
+### Translations:
+Llamativo, va; notable; chocante.
+
+
+## Subdue
+
+### Definitions:
+
+1. To bring somebody/something under control, especially by using force; e.g., 'The most serious charges relate to the regime's efforts to subdue insurgents in the northern provinces.
+2. To calm or control your feelings; e.g., 'Julia had to subdue an urge to stroke his hair'.
+
+### Translations:
+Dominar, sojuzgar.
+
+
+## Sultry
+
+### Definitions:
+
+1. (of the weather or air) Very hot and uncomfortable; e.g., a sultry summer afternoon, 'We went out into the still, sultry heat of the afternoon'.
+2. Sexually attractive; i.e., seeming to have strong sexual feelings; e.g., a sultry smile/singer.
+
+### Translations:
+Sofocante; apasionado, da; bochornoso, sa.
+
+
+## Swift
+
+### Definitions:
+
+1. Happening or done quickly and immediately; i.e., doing something quickly; e.g., a swift action/decision/movement, 'The White House was *swift to* deny the rumours'.
+2. Moving very quickly; i.e., able to move very quickly; e.g., a swift current/runner.
+
+### Translations:
+Rápido, da; pronto; ligero, ra; repentino, na.
+
+
 # T
+
+## Tabloid
+
+### Definitions:
+
+1. Tabloid newspapers have small pages and short articles with a lot of pictures and stories about famous people, and are often thought of as less serious than other newspapers; e.g., the tabloid press, tabloid journalists.
+2. Used to describe the small size of some newspapers (usually half the size of larger papers); e.g., a serious paper in a new tabloid format.
+
+### Translations:
+Tabloide, tableta, gaceta.
+
+
+## Tailor
+
+### Definitions:
+
+1. A person whose job is to make men's clothes, especially somebody who makes suits, etc. for individual customers.
+2. To make or adapt something for a particular purpose, a particular person, etc.; e.g., a system that is specially *tailored for* small companies, 'Special programmers of study are *tailored to* the needs of specific groups', 'Most travel agents are prepared to tailor travel arrangements to meet individual requirements'.
+
+### Translations:
+Sastre, entallar.
+
+
+## Tame
+
+### Definitions:
+
+1. (of animals, birds, etc.) Not afraid of people, and used to living with them; e.g., 'The bird became so tame that it was impossible to release it back into the wild'.
+2. Not interesting or exciting; e.g., 'You'll find life here pretty tame after New York'.
+3. (of a person) Willing to do what other people ask; e.g., 'I have a tame doctor who'll always give me a sick note when I want a day off'.
+
+### Translations:
+Domar/domado, da; domesticar/domesticado, da; manso, sa; dócil; amansar/amansado, da; aburrido, da; habitual.
+
+
+## Thee
+
+### Definition:
+A word meaning 'you', used when talking to only one person who is the object of the verb; e.g., 'We beseech thee, O Lord'.
+
+### Translation:
+Te.
+
 
 ## Trump-up
 

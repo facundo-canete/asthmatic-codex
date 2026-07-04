@@ -1,5 +1,11 @@
 # Idioms
 
+## Go spare
+
+### Meaning:
+To become very angry or upset; e.g., 'Your mum would go spare if she knew!', 'I'll go spare if I don't get out of the house soon!'.
+
+
 ## Have a nodding acquaintance with somebody/something
 
 ### Meaning:
