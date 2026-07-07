@@ -2,7 +2,22 @@
 Este changelog se va a dedicar a registrar todo cambio relativo únicamente a las entradas del Codex. 
 
 
-## v2.5.0.4 (03/07/2026): Asthmatic Codex [current]
+## v2.5.0.5 (07/07/2026): Asthmatic Codex [current]
+
+### Added
+- A0324: [*Thereby*](./english/words.md#thereby) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0325: [*Thereto*](./english/words.md#thereto) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0326: [*Threshold*](./english/words.md#threshold) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0327: [*Thrive*](./english/words.md#thrive) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0328: [*Thus*](./english/words.md#thus) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0329: [*Torrid*](./english/words.md#torrid) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0330: [*Toss*](./english/words.md#toss) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0331: [*Troth*](./english/words.md#troth) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0332: [*Vicarious*](./english/words.md#vicarious) en [*Words*](./english/words.md), dentro de [*English*](./english).
+- A0333: [*Withhold*](./english/words.md#withhold) en [*Words*](./english/words.md), dentro de [*English*](./english).
+
+
+## v2.5.0.4 (03/07/2026): Asthmatic Codex [d20ac9b]
 
 ### Added
 - A0313: [*Spare*](./english/words.md#spare) en [*Words*](./english/words.md), dentro de [*English*](./english).

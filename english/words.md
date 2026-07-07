@@ -23,7 +23,7 @@
 - [S](#s)
 - [T](#t)
 - [U](#u)
-- [V - empty](#v)
+- [V](#v)
 - [W](#w)
 - [X - empty](#x)
 - [Y - empty](#y)
@@ -848,6 +848,92 @@ A word meaning 'you', used when talking to only one person who is the object of 
 Te.
 
 
+## Thereby
+
+### Definition:
+Used to introduce the result of the action or situation mentioned; e.g., 'Regular exercise strengthens the heart, thereby reducing the risk of heart attack'.
+
+### Translations:
+Así; de este modo.
+
+
+## Thereto
+
+### Definition:
+To the thing mentioned; e.g., 'The lease entitles the holder to use the buildings and any land attached thereto'.
+
+### Translation:
+Para ello.
+
+
+## Threshold
+
+### Definitions:
+
+1. The floor or ground at the bottom of a doorway, considered as the entrance to a building or room; e.g., 'He stepped across the threshold', 'She stood hesitating *on the threshold*'.
+2. The level at which something starts to happen or have an effect; e.g., 'He has a low boredom threshold (= he gets bored easily)', 'I have a high pain threshold (= I can suffer a lot of pain before I start to react)', 'My earningsare just above the tax threshold (= more than the amount at which you start paying tax)'.
+3. The point just before a new situation, period of life, etc. begins; e.g., 'She felt as though she was *on the threshold of* a new life'.
+
+### Translations:
+Límite, umbral.
+
+
+## Thrive
+
+### Definition:
+To become, and continue to be, successful, strong, healthy, etc.; e.g., 'New businesses thrive in this area', 'These animals rarely thrive in captivity'.
+
+### Translations:
+Prosperar, florecer, desarrollarse bien, crecer mucho.
+
+
+## Thus
+
+### Definitions:
+
+1. In this way; i.e., like this; e.g., 'Many scholars have argued thus', 'The universities have expanded, thus allowing many more people the chance of higher education', 'She rarely gave interviews and thus avoided being asked questions she would rather not answer'.
+2. As a result of something just mentioned; e.g., 'He is the eldest son and thus heir to the title', 'We do not own the building. Thus, it would be impossible for us to make any major changes to it'.
+
+### Translations:
+De este modo, así, en consecuencia, tan.
+
+
+## Torrid
+
+### Definitions:
+
+1. Full of strong emotions, especially connected with sex and love; e.g., a torrid love affair.
+2. (of a climate or country) Very hot or dry; e.g., a torrid summer, 'It was a country of torrid, sunburned mountains and castles and high plains roamed by vast flocks of sheep'.
+3. Very difficult; e.g., 'They face a torrid time in tonight's game'.
+
+### Translation:
+Tórrido, da.
+
+
+## Toss
+
+### Definitions:
+
+1. To throw something lightly or carelessly; e.g., 'I tossed the book aside and got up', 'He tossed the ball to Anna', 'He tossed Anna the ball'.
+2. To throw a coin in the air in order to decide something, especially by guessing which side is facing upwards when it lands; e.g., 'Let's toss a coin', 'There's only one ticket left — I'll toss you *for* it', 'We *tossed up* to see who went first', 'He had to *toss up between* (= decide between) paying the rent or buying food'.
+3. To move your head suddenly upwards, especially to show that you are annoyed or impatient; e.g., 'She just tossed her head and walked off', 'She tossed back her blonde hair'.
+4. To move or make somebody/something move from side to side or up and down; e.g., 'Branches were tossing in the wind', 'I couldn't sleep but kept tossing and turning in bed all night', 'She tossed about restlessly all night with a high fever', 'Our boat was being tossed by the huge waves'.
+5. To shake or turn food in order to cover it with oil, butter, etc.; e.g., 'Drain the pasta and toss it in melted butter', 'Toss the vegetables lightly in olive oil', 'Pour the vinaigrette over the salad and toss well'.
+6. To throw a pancake upwards so that it turns over in the air and lands back in the frying pan so you can fry the other side.
+
+### Translations:
+Tirar/tirada; sacudir/sacudida; sortear/sorteo; mover bruscamente/movimiento brusco.
+
+
+## Troth
+
+### Definition:
+Middle English variant of *truth*.
+
+### Translation:
+Fidelidad.
+
+
 ## Trump-up
 
 ### Definition:
@@ -879,7 +965,13 @@ Desquiciar.
 
 # V
 
-Nothing to see here yet.
+## Vicarious
+
+### Definition:
+Felt or experienced by watching or reading about somebody else doing something, rather than by doing it yourself; 'He got a vicarious thrill out of watching his son score the winning goal'.
+
+### Translations:
+Vicario, ria; en indirecto.
 
 
 # W
@@ -891,6 +983,15 @@ A particular amount of money that is paid, usually every week, to an employee, e
 
 ### Translation:
 Salario.
+
+
+## Withhold
+
+### Definition:
+To refuse to give something to somebody; e.g., 'She was accused of withholding information *from* the police', 'Payment was hithheld until the work was completed', 'The government was threatening to withhold future financial aid'.
+
+### Translations:
+Retener.
 
 
 ## Wit
