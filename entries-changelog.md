@@ -2,7 +2,13 @@
 Este changelog se va a dedicar a registrar todo cambio relativo únicamente a las entradas del Codex. 
 
 
-## v2.5.0.5 (07/07/2026): Asthmatic Codex [current]
+## v2.5.0.6 (19/07/2026): Asthmatic Codex [current]
+
+### Changed
+- C0008: título de [*Períodos*](./historia/periodos.md), dentro de [*Historia*](./historia).
+
+
+## v2.5.0.5 (07/07/2026): Asthmatic Codex [508c1d3]
 
 ### Added
 - A0324: [*Thereby*](./english/words.md#thereby) en [*Words*](./english/words.md), dentro de [*English*](./english).
